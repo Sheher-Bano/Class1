@@ -1,2 +1,2 @@
 # Class1
-Basic website development practice
+Basic website for Bootcamp practice
